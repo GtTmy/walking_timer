@@ -50,9 +50,9 @@ void print_status() {
   M5.Lcd.setCursor(0, 0);
   M5.Lcd.setTextFont(4);
   if (walking_status.mode == Fast) {
-    M5.Lcd.println("Fast");  // workaround for afterimage
+    M5.Lcd.println("Fast  ");  // workaround for afterimage
   } else {
-    M5.Lcd.println("Slow");
+    M5.Lcd.println("Slow  ");
   }
   M5.Lcd.setTextFont(7);
   M5.Lcd.printf("%02d:%02d", walking_status.minutes, walking_status.seconds);

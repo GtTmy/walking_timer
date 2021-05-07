@@ -17,3 +17,4 @@
 
 - [全身の持久力が高まるウォーキング法！インターバル速歩とは？ - NHK健康チャンネル](https://www.nhk.or.jp/kenko/atc_13.html)
 - [5カ月で体力が2割UP　「インターバル速歩」に挑戦 - NIKKEI STYLE](https://style.nikkei.com/article/DGXKZO58441220U0A420C2W11300/)
+- [時速7kmの「早歩き」はランニングより高負荷・低リスク アシックス - Impress Watch](https://www.watch.impress.co.jp/docs/news/1318307.html)

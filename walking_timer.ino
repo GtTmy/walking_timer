@@ -61,7 +61,7 @@ void print_status() {
 void setup() {
   M5.begin();
   setCpuFrequencyMhz(10);
-  M5.Lcd.setRotation(3);
+  M5.Lcd.setRotation(1);
   print_status();
 }
 
